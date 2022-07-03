@@ -1,3 +1,8 @@
 #test{
   padding: 0;
+  margin: auto;
+}
+ul{
+  margin: auto;
+  padding: 0;
 }
