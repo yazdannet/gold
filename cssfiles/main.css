@@ -1,6 +1,12 @@
-#test{
-  padding: 0;
-  margin: auto;
+body .test{
+  margin: 0 auto;
+}
+#test2{
+  margin: 10px;
+}
+#mainimg{
+  width: 100px;
+  height: 100px;
 }
 ul{
   margin: auto;
