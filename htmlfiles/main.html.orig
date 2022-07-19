@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>gold page</title>
+    <link rel="stylesheet" href="C:\Users\Administrator\Desktop\Git_project_test\cssfiles\main.css">
+
+  </head>
+  <body>
+    <div id="main">
+      <span class="redsquare">
+        <span class="yellowsquare">
+<<<<<<< HEAD
+          <span class="bluesquare">
+            <span class="blacksquare">
+            </span>
+          </span>
+=======
+>>>>>>> parent of 250c4ad (Add Blue Square)
+        </span>
+      </span>
+    </div>
+
+  </body>
+</html>
